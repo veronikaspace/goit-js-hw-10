@@ -220,3 +220,49 @@ body {
   letter-spacing: 0.03em;
   color: #fff !important;
 }
+
+.custom-delay-success {
+  background-color: #59a10d !important;
+  color: #fff !important;
+}
+
+.custom-delay-success .iziToast-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  color: #fff !important;
+}
+
+.custom-delay-success .iziToast-message {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  color: #fff !important;
+}
+
+.custom-delay-error {
+  background-color: #ef4040 !important;
+  color: #fff !important;
+}
+
+.custom-delay-error .iziToast-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  color: #fff !important;
+}
+
+.custom-delay-error .iziToast-message {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  color: #fff !important;
+}
